@@ -1,4 +1,12 @@
-![welcome](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
+<div align="center">
+  
+  ![welcome](https://c.tenor.com/LDuF2jVabwoAAAAC/banner-welcome.gif)
+
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rendyproklamanta&layout=compact&theme=dark">
+  &nbsp;
+  <img height=150 src="https://github-readme-stats.vercel.app/api?username=rendyproklamanta&count_private=true&show_icons=true&theme=dark">
+  
+</div>
 
 
 <!---
